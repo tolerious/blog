@@ -8,7 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 MAIL='tolerious@seedlinktech.com'
-ABOUT_TEXT='This is tolerious.'
+ABOUT_TEXT='Welcome abord.'
 ABOUT_IMAGE='images/picture.jpg'
 GOOGLEPLUS_USER='107031989496937042842'
 TWITTER_USER='tolerious'
