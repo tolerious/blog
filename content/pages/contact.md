@@ -4,4 +4,4 @@ Summary: o la la
 
 
 ###如何联系###
-邮箱：tolerious#seedlinktech.com
+邮箱：tolerious#qq.com
