@@ -4,4 +4,8 @@ Summary: o la la
 
 
 ###如何联系###
-邮箱：tolerious#seedlinktech.com
+Email：tolerious#qq.com
+
+Wechat: lispghost
+
+QQ:390549824
