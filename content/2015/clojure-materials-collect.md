@@ -7,3 +7,5 @@ picture: images/p.jpg
 
 
 * [Clojure 编程语言](http://www.ibm.com/developerworks/cn/opensource/os-eclipse-clojure/)
+
+* [Clojure 程序设计](http://item.jd.com/11204252.html)
