@@ -7,7 +7,7 @@ SITENAME = u"tolerious's blog"
 SITEURL = ''
 
 PATH = 'content'
-MAIL='tolerious@seedlinktech.com'
+MAIL='tolerious#qq.com'
 ABOUT_TEXT='This is tolerious.'
 ABOUT_IMAGE='images/picture.jpg'
 GOOGLEPLUS_USER='107031989496937042842'
@@ -32,8 +32,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 THEME = "./html5-dopetrope"
 # Blogroll
-LINKS = (('Seedlink', 'http://seedlinktech.com/'),
-         ('Rcxue', 'http://rcxue.com/'),
+LINKS = (('美泊', 'http://meiparking.com'),
+         ('机场代泊', 'http://service.meiparking.com/wechat/reserve/park/'),
          #('Jinja2', 'http://jinja.pocoo.org/'),
         )
 
