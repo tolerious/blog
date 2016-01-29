@@ -76,4 +76,6 @@ env.user = 'tolerious'
 def d():
     local("git commit -am 'update'")
     local("git push origin master")
-    run("cd /home/tolerious/blog_env/blog&&git pull origin master&&source  ../bin/activate&&make html")
+    # run("cd /home/tolerious/blog_env/blog&&git pull origin master&&source  ../bin/activate&&make html")
+    with cd("/home/tolerious/blog_env/blog"):
+        run("git pull origin master")
