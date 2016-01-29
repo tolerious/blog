@@ -72,6 +72,7 @@ def publish():
         extra_opts='-c',
     )
 env.hosts = ['tobe.engineer']
+env.user = 'tolerious'
 def f():
     local("git commit -am 'update'")
     local("git push origin master")
