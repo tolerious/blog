@@ -79,3 +79,4 @@ def d():
     # run("cd /home/tolerious/blog_env/blog&&git pull origin master&&source  ../bin/activate&&make html")
     with cd("/home/tolerious/blog_env/blog"):
         run("git pull origin master")
+        run("make html")
