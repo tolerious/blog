@@ -5,4 +5,4 @@ Summary: RabbitMQ入门
 picture: images/p.jpg
 
 
-<center>RabbitMQ入门系列文章</center>
+<center>RabbitMQ入门系列文章</center> 
