@@ -71,3 +71,11 @@ def publish():
         delete=True,
         extra_opts='-c',
     )
+env.hosts = ['tobe.engineer']
+def f():
+    local("git commit -am 'update'")
+    local("git push origin master")
+    run("cd /home/tolerious/blog_env/blog")
+    run("git pull origin master")
+    run("source  ../bin/activate")
+    run("make html")
