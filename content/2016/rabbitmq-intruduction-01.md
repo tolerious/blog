@@ -6,4 +6,4 @@ picture: images/p.jpg
 
 
 <center>RabbitMQ入门系列文章</center>
-<a></a>
+<a>ABC</a>
