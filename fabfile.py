@@ -73,7 +73,7 @@ def publish():
     )
 env.hosts = ['tobe.engineer']
 env.user = 'tolerious'
-def f():
+def d():
     local("git commit -am 'update'")
     local("git push origin master")
     run("cd /home/tolerious/blog_env/blog")
