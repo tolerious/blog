@@ -74,8 +74,9 @@ def publish():
 env.hosts = ['tobe.engineer']
 env.user = 'tolerious'
 def p():
-    local("git commit -am 'update'")
-    local("git push origin master")
+    with settings(warn_only=True):
+        result = local("git commit -am 'update' && git push origin master")
+    # if result.failed and not confirm("Continue?"):
     # run("cd /home/tolerious/blog_env/blog&&git pull origin master&&source  ../bin/activate&&make html")
     with cd("/home/tolerious/blog_env/blog"):
         run("git pull origin master")
