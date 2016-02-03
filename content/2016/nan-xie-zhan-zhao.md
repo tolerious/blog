@@ -32,6 +32,6 @@ picture: images/p.jpg
 脑补：北侠：欧阳纯，南侠：展昭，双侠：丁兆兰，丁兆惠
 
 如果对展昭事迹感兴趣可以参看：  
-《老鼠爱上猫》
+[《老鼠爱上猫》](http://v.youku.com/v_show/id_XNTY3MTQ4NzQ4.html?tpa=dW5pb25faWQ9MTAzNjY3XzEwMDAwMV8wMV8wMQ)
 
-《七侠五义之七侠五义》
+[《包青天之七侠五义》](http://www.youku.com/show_page/id_z5cb2ebf01e0a11e097c0.html)
