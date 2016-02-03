@@ -8,3 +8,16 @@ picture: images/p.jpg
 
 第三章--可视化格式模型
 ===============
+* P46页  
+书中的代码为:
+```
+<div id="branding">
+<p> class="tel">Tel: 0845 838 6163</p>
+</div>
+```
+实际应为:
+```
+<div id="branding">
+<p class="tel">Tel: 0845 838 6163</p>
+</div>
+```
