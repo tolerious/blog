@@ -4,9 +4,9 @@ Tags: blog
 Summary: 如何安装Nginx
 picture: images/p.jpg
 
-<center>安装Nginx1.8.0</center>
+<center>安装Nginx1.8.1</center>
 
-* [下载](http://nginx.org/download/nginx-1.8.1.tar.gz)Nginx1.8.0  
+* [下载](http://nginx.org/download/nginx-1.8.1.tar.gz)Nginx1.8.1 
 
 * 安装依赖包  
 1. apt-get install libpcre3 libpcre3-dev  
