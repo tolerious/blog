@@ -8,6 +8,7 @@ picture: images/p.jpg
 
 
 区分两者之间的区别，首先要搞清楚`login shell`和`no-login shell`之间的区别。
+
 * login shell
 当你通过终端输入用户名和密码，然后进入到terminal，这时候进入的shell环境就叫做是login shell，
 例如，通过`ssh`远程进入到主机。
@@ -23,7 +24,7 @@ picture: images/p.jpg
 有一个例外就是在`Mac OS`系统中，当你每次运行termianl的时候，系统都会默认的给你运行一个`login shell`环境，
 所以你看到在`Mac OS`系统中`~/`目录下只有一个`.bash_profile`文件而没有`.bashrc`文件，就是这个道理了。
 
-* 如何同时使用两个文件？ 
+* 如何同时使用两个文件？
 那么如果我在`Mac OS`系统中也想把一些shell命令放到`.bashrc`文件中呢？当然不推荐这么做，也没什么意义，那么你可以
 创建一个`.bashrc`的文件。然后在`.bash_profile`文件中写上如下代码,
 ```
