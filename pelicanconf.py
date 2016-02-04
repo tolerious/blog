@@ -41,7 +41,7 @@ LINKS = (('美泊', 'http://meiparking.com'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 9
 STATIC_PATHS = ['images', 'pdfs']
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
