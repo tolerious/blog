@@ -20,3 +20,11 @@ picture: images/p.jpg
 3. 根据终端内的提示把`[[ -s ~/.autojump/etc/profile.d/autojump.sh ]] && . ~/.autojump/etc/profile.d/autojump.sh`
 添加到你的`.bashrc`文件中。
 4. 运行`source ./bashrc`
+
+* 使用autojump
+例如你的nginx配置文件目录在`/usr/local/nginx/conf`你下次想直接进入到这个目录，你只要先进去这个目录，然后跳回
+home目录再输入`j conf`，看看发生了什么，你一下子就进入到了nginx配置文件的目录。
+
+
+一些常用的命令
+========================
