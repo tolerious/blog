@@ -33,7 +33,7 @@ home目录再输入`j conf`，看看发生了什么，你一下子就进入到�
 
 * j --stat
 
-<img src="/images/autojump-1.png">
+<img src="/images/autojump-1.png" style="width:500px">
 
 如图所示，冒号前面显示的小数代表的是你在这个目录停留的时间长短，如图上，有两个叫conf的文件夹，那么当我运行`j conf`命令的时候会跳到
 那个文件夹呢？答案是冒号前面的数字哪个大就会跳转到哪个的前面。
