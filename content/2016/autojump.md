@@ -33,3 +33,4 @@ home目录再输入`j conf`，看看发生了什么，你一下子就进入到�
 
 * j --stat
 ![Alt text]({filename}/images/qrcode.jpg)
+<img src="/images/p.jpg">
