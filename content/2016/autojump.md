@@ -34,3 +34,5 @@ home目录再输入`j conf`，看看发生了什么，你一下子就进入到�
 * j --stat
 
 <img src="/images/autojump-1.png">
+
+如图所示，冒号前面显示的小数代表的是你在这个目录停留的时间长短，
