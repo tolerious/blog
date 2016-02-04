@@ -33,4 +33,4 @@ home目录再输入`j conf`，看看发生了什么，你一下子就进入到�
 
 * j --stat
 
-<img src="/images/autojump-1.png" style="width:300px;height:300px">
+<img src="/images/autojump-1.png">
