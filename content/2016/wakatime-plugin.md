@@ -1,6 +1,6 @@
 Title: wakatime编码时间管理插件
-Category: BookReport
-Tags: BookReport
+Category: Article
+Tags: Plugin
 Summary: 编码时间管理插件
 picture: images/p.jpg
 
