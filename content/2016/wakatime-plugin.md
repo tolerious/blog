@@ -12,8 +12,9 @@ picture: images/p.jpg
 Waketime是帮助程序员追踪编程时间的一款工具，何必要用手动及时来计算你的编码时间呢？这个插件就可以帮助你
 进行编码时间的跟踪。
 目前该插件支持的编辑器种类还真是不少。
-
+<div>
 <img src="/images/wakatime-1.png" style="width:700px;height:700px">
+</div>
 
 用该插件的好处
 ==============
