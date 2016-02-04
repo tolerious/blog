@@ -4,7 +4,8 @@ Tags: blog
 Summary: .bashrc和.bash_profile之间的不同
 picture: images/p.jpg
 
-<center style="font-weight:bold"></center>
+<center style="font-weight:bold">两者之间究竟有何不同？</center>
+
 
 区分两者之间的区别，首先要搞清楚`login shell`和`no-login shell`之间的区别。
 * login shell
