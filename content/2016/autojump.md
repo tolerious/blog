@@ -1,7 +1,7 @@
 Title: 切换目录的利器Autojump
 Category: Article
 Tags: blog
-Summary: 神之力气Autojump
+Summary: 神之利器Autojump
 picture: images/p.jpg
 
 <center style="font-weight:bold">自动补全还没完，跳转目录才是王道</center>
