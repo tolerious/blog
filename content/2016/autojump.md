@@ -32,5 +32,5 @@ home目录再输入`j conf`，看看发生了什么，你一下子就进入到�
 跳转到曾经的历史，例如上文所说的跳转到nginx的配置文件目录
 
 * j --stat
-![Alt text]({filename}/images/qrcode.jpg)
-<img src="/images/p.jpg">
+
+<img src="/images/autojump-1.png">
