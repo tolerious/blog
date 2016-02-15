@@ -1,0 +1,7 @@
+Title: NearBuy项目的重新启动
+Category: Article
+Tags: blog
+Summary: 一个夭折的项目想重新启动
+picture: images/p.jpg
+
+<center>这是一个曾经夭折的项目,带着几个人的想法却没有诞生出来,在摇篮的时候已经被扼杀.</center>
