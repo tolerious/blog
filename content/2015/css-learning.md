@@ -7,7 +7,11 @@ picture: images/p.jpg
 
 <center>CSS资源汇总</center>
 
+**比较好的CSS读物**
+
+《精通CSS》
+
+《无懈可击的Web设计》
+
+
 **已经看过的CSS学习资源**
-
-
- 
