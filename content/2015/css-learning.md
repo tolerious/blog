@@ -11,7 +11,7 @@ picture: images/p.jpg
 
 《精通CSS》
 
-《无懈可击的Web设计》 ![下载链接](pdf/css-wang-zhan-bu-ju-shi-lu.pdf)
+《无懈可击的Web设计》 ![下载链接](pdfs/css-wang-zhan-bu-ju-shi-lu.pdf)
 
 
 **已经看过的CSS学习资源**
