@@ -44,6 +44,6 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 6
 STATIC_PATHS = ['images', 'pdfs']
-LOCALE = ('en_US')
+LOCALE = ('en_US','ja_JP')
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
