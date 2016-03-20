@@ -1,4 +1,4 @@
-Title: 修改Linux登录所显示文字
+Title: 修改Linux登录时所显示文字
 Category: Article
 Tags: blog
 Summary: 如何修改Linux登录时所显示的文字，定制化个性需求
