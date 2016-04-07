@@ -20,5 +20,5 @@ tmux2html 2 -o filename --history 8888
 
 效果如图所示:
 <div>
-<img src="/images/tmux2html.png" style="width:700px;height:700px">
+<img src="/images/tmux2html.png" style="width:800px;height:700px">
 </div>
