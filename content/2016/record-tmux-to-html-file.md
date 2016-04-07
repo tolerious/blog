@@ -23,4 +23,4 @@ tmux2html 2 -o filename --history 8888
 <img src="/images/tmux2html.png" style="width:800px;height:700px">
 </div>
 
-![Alt text](/images/tmux2html.png)
+<!-- ![Alt text](/images/tmux2html.png) -->
