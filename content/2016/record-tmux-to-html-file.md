@@ -17,3 +17,8 @@ pip install tmux2html
 * 使用
 tmux2html 2 -o filename --history 8888
 保存会话2中的内容到文件filename中， 保存的记录行数是8888行
+
+效果如图所示:
+<div>
+<img src="/images/tmux2html.png" style="width:700px;height:700px">
+</div>
