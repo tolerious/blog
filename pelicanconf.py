@@ -35,6 +35,7 @@ THEME = "./html5-dopetrope"
 # Blogroll
 LINKS = (('美泊', 'http://meiparking.com'),
          ('机场代泊', 'http://service.meiparking.com/wechat/reserve/park/'),
+         ('Coding个人主页', 'https://coding.net/?ref=tolerious'),
          #('Jinja2', 'http://jinja.pocoo.org/'),
         )
 
