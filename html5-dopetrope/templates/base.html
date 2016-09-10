@@ -69,6 +69,7 @@
 													{% endfor %}
 												{% else %}
 													{% if DISPLAY_CATEGORIES_ON_MENU %}
+													b
 														{% for cat, null in categories %}
 															<li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
 														{% endfor %}
