@@ -67,14 +67,14 @@ serve:
 ifdef PORT
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
 else
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server
+	cd $(OUTPUTDIR) && $(PY) -m pelican.server 8989
 endif
 
 devserver:
 ifdef PORT
 	$(BASEDIR)/develop_server.sh restart $(PORT)
 else
-	$(BASEDIR)/develop_server.sh restart
+	$(BASEDIR)/develop_server.sh restart 8989
 endif
 
 stopserver:
