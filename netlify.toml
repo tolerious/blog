@@ -1,2 +1,2 @@
 [build]
-command = "make html && ls && pwd"
+command = "make html && cd output && ls && pwd"
