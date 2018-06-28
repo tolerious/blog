@@ -1,2 +1,0 @@
-[build]
-command = "make html &&   sudo make serve PORT=80&& cd output && ls && pwd"
