@@ -1,4 +1,4 @@
 [build]
-base = 'blog/'
-publish ='blog/output'
+base = '/opt/build/repo'
+publish ='/opt/build/rep/output'
 command = "make html && ls"
