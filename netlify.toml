@@ -1,2 +1,2 @@
 [build]
-command = "make html &&   make serve&& cd output && ls && pwd"
+command = "make html &&   make serve PORT=80&& cd output && ls && pwd"
