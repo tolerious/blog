@@ -1,2 +1,4 @@
 [build]
+base = '/opt'
 publish="/opt/buildhome/repo/output"
+command = "make html && pwd"
