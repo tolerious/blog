@@ -1,2 +1,2 @@
 [build]
-publish="output"
+publish="/opt/buildhome/repo/output"
