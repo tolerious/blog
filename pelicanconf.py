@@ -33,9 +33,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 THEME = "./html5-dopetrope"
 # Blogroll
-LINKS = (('美泊', 'http://meiparking.com'),
-         ('机场代泊', 'http://service.meiparking.com/wechat/reserve/park/'),
-         ('Coding个人主页', 'https://coding.net/?ref=tolerious'),
+LINKS = (('同济大学出版社英文版', 'http://en.tongjipress.com.cn/'),
+         ('中国工程师史交互平台', 'http://www.tongjix.cn/#/'),
+         ('游戏出版与审核平台', 'http://game.tongjix.cn/'),
+         ('同济创意设计', 'http://design.tongjix.cn/#/'),
+         ('Github', 'https://github.com/tolerious'),
          #('Jinja2', 'http://jinja.pocoo.org/'),
         )
 
